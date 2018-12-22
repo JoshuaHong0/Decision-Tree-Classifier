@@ -7,3 +7,7 @@ Reference: http://archive.ics.uci.edu/ml/datasets/Caesarian+Section+Classificati
 
 2. Iris Data Set\
 Reference: http://archive.ics.uci.edu/ml/datasets/Iris
+
+## Author
+
+**Zhezheng Hong** - *Initial work* - [JoshuaHong](https://github.com/JoshuaHong0)
